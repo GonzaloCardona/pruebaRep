@@ -20,7 +20,9 @@ public class Date {
   private final int month;
   private final int year;
 
-  /**
+  public void pruebaDavid() {
+    System.out.println("Hola Mundo");
+  }  /**
    * Retrieves the day component of this date.
    *
    * @return The day of the month (1-31).
